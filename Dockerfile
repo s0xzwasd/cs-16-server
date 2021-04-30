@@ -2,8 +2,8 @@ FROM kriansa/cs-16:2018-12-24
 LABEL maintainer="Daniel Pereira <daniel@garajau.com.br>"
 
 # Runtime settings
-ENV RCON_PASSWORD=""
-ENV SV_PASSWORD=""
+ENV RCON_PASSWORD="somepassword"
+ENV SV_PASSWORD="beer"
 ENV MAXPLAYERS="12"
 ENV MAPNAME="fy_pool_day"
 

@@ -1,6 +1,11 @@
 ; Define the cycle that maps will loop through
 
 fy_pool_day
+$1000$
+fy_rooftops
+he_db_skyarena
+he_glass_2
+ship_dreamer
 aim_ak-colt
 fy_iceworld
 cs_assault

@@ -18,7 +18,7 @@ services:
       - "27015:27015"
       - "27015:27015/udp"
     environment:
-      - RCON_PASSWORD=""
-      - SV_PASSWORD=""
+      - RCON_PASSWORD="somepassword"
+      - SV_PASSWORD="beer"
       - MAXPLAYERS="12"
       - MAPNAME="fy_pool_day"
