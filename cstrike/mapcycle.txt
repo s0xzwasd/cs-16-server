@@ -2,6 +2,16 @@
 
 fy_pool_day
 $1000$
+35hp_2
+aim_headshot
+as_crazytank3
+awp_india
+awp_map
+fun_pool_day
+fy_desert_fortess
+cs_deathmatch-final
+aa_dima3
+fy_snow
 fy_rooftops
 he_db_skyarena
 he_glass_2
