@@ -1,23 +1,22 @@
 ; Define the cycle that maps will loop through
 
-fy_pool_day
+he_glass_2
+fun_pool_day
 $1000$
 35hp_2
 aim_headshot
 as_crazytank3
 awp_india
-awp_map
-fun_pool_day
 fy_desert_fortess
 cs_deathmatch-final
-aa_dima3
 fy_snow
 fy_rooftops
 he_db_skyarena
-he_glass_2
 ship_dreamer
 aim_ak-colt
+awp_map
 fy_iceworld
+fy_pool_day
 cs_assault
 de_aztec
 de_inferno
