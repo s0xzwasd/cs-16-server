@@ -14,7 +14,6 @@ cs_deathmatch-final
 fy_snow
 fy_rooftops
 he_db_skyarena
-ship_dreamer
 aim_ak-colt
 awp_map
 fy_iceworld
